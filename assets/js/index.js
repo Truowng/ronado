@@ -14,7 +14,7 @@ closeBtn.addEventListener("click", () => {
 
 const slideText = new Swiper("#slide-text .swiper", {
   direction: "horizontal",
-  speed: 10000,
+  speed: 3000,
   loop: true,
   slidesPerView: "auto",
   spaceBetween: 100,
